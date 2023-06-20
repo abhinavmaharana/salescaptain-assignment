@@ -1,7 +1,7 @@
 function CTA() {
   return (
     <div className="w-full h-auto flex items-center justify-center bg-[#202020] text-white">
-        <div className="justify-center text-center space-y-8 lg:w-auto mb-8">
+        <div className="justify-center text-center space-y-8 lg:w-auto mb-8 mt-8">
             <h1 className="text-6xl font-bold">Ready to grow?</h1>
             <p className="text-lg leading-10">See why 100,000+ businesses trust us. Book a personalized demo to see <br/>
                 how SalesCaptain provides you the right tools to grow your business.</p>

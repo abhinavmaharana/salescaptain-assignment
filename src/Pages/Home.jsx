@@ -1,3 +1,4 @@
+import Blog from '../components/HomeArea/Blog/Blog'
 import Brands from '../components/HomeArea/Brands/Brands'
 import BusinessLevel from '../components/HomeArea/BusinessLevel/BusinessLevel'
 import CTA from '../components/HomeArea/CTA/CTA'
@@ -13,6 +14,7 @@ const Home = () => {
         <Brands />
         <Testimonial />
         <BusinessLevel />
+        <Blog />
         <CTA />
     </>
   )
